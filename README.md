@@ -1,6 +1,6 @@
 # sms_sender
 
-A new Flutter project.
+This Application is for Reporting Spam Call to network Provider to of and take legal report against them.
 
 ## Getting Started
 
